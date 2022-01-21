@@ -15,7 +15,7 @@ The data were obtained from [Kaggle](https://www.kaggle.com/imakash3011/rental-b
 
 In file day.csv, the dataset creators aggregated counts of riders by day. These counts are broken out into “casual” and “registered” users. Columns related to time are date, year, month, hour, season, day of the week, and whether the day is or is not a holiday or is or is not a working day. Weather-related columns added by the dataset creators from freemeteo.com are weather intensity, temperature, sensed temperature, humidity, and wind speed.
 
-The data file is available [here]() in another repository. The 
+The data file is available [here](https://github.com/JosephMartin610/thinkful_data_science_flex_data_files/blob/main/day.csvhttps://github.com/JosephMartin610/thinkful_data_science_flex_data_files/blob/main/day.csv) in another repository.
 
 **Jupyter Notebook**
 
