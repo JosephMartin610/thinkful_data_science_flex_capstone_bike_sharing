@@ -7,7 +7,9 @@ The data for this capstone project come from a rental bike sharing system in whi
 
 One reason this dataset is of interest is because of the expanding use of these systems, as the creators point out: “There are about over 500 bike-sharing programs around the world which are composed of over 500 thousand bicycles.” There is great interest in these systems “due to their important role in traffic, environmental and health issues.”
 
-The dataset creators aggregated counts of riders by hour (hour.csv) and day (day.csv). There are other columns related to various measures of time and weather. Using file day.csv, rider counts will be grouped according to these other columns to determine if there are significant differences among groups. Does the average count of riders depend on group classification by aspects of time or weather?
+The dataset creators aggregated counts of riders by hour (hour.csv) and day (day.csv). There are other columns related to various measures of time and weather. Using file day.csv, rider counts will be grouped according to these other columns to determine if there are significant differences among groups. 
+
+The main question here is: Does the average count of riders depend on group classification by aspects of time or weather?
 
 **Source Data**
 
@@ -19,8 +21,8 @@ The data file is available [here](https://github.com/JosephMartin610/thinkful_da
 
 **Jupyter Notebook**
 
-All of the code and results are in one Jupypter notebook, [supervised_learning_capstone_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone_classification.ipynb).
+All of the code and results are in one Jupypter notebook, [supervised_learning_capstone_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_bike_sharing/blob/main/rental_bike_sharing_report.ipynb).
 
 **Presentation**
 
-The development and performance of the models are described here in the capstone [presentation](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone.pdf).
+The dataset and the results are described here in the capstone [presentation]().
