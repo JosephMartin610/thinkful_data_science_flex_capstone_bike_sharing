@@ -25,4 +25,4 @@ All of the code and results are in one Jupypter notebook, [supervised_learning_c
 
 **Presentation**
 
-The dataset and the results are described here in the capstone [presentation]().
+The dataset and the results are described here in the capstone [presentation](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_bike_sharing/blob/main/rental_bike_sharing_report.pdf).
